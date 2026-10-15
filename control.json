@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "2.26",
+  "version_actual": "2.27",
   "version_disponible": "2.27",
-  "actualizacion_disponible": true,
+  "actualizacion_disponible": false,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V2.27 disponible.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v2.27/FerreteriaJIT_V2.27.zip"
+  "mensaje": "",
+  "url_actualizacion": ""
 }
