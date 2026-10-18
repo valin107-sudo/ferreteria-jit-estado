@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "2.77",
-  "version_disponible": "2.78",
+  "version_actual": "2.78",
+  "version_disponible": "2.79",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V2.78 disponible. Incluye mejoras de interfaz, pantalla del cliente, productos, compras, proveedores, devoluciones, tickets, fiados, fotografías y catálogo.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v2.78/Ferreteria.J.I.T.V2.78.zip"
+  "mensaje": "Nueva actualización V2.79 disponible. Incluye mejoras en pantalla del cliente, nuevo logotipo, Pinto Lux y colores, rotación de marcas, pedidos de clientes, venta por paquete y pieza, nombres de productos y borrado permanente.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v2.79/FerreteriaJIT_V279.zip"
 }
