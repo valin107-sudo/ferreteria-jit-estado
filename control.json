@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "2.79",
-  "version_disponible": "2.80.1",
+  "version_actual": "2.80.1",
+  "version_disponible": "2.80.2",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V2.80.1 disponible. Incluye Kardex, mejoras de inventario y corte de caja, categorías y descripciones de productos más entendibles en español, mejor identificación por código de barras, fotografía completa y mejoras en la ventana de Nuevo Producto.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v2.80.1/FerreteriaJIT_V2801.zip"
+  "mensaje": "Nueva actualización V2.80.2 disponible. Corrige la identificación por código de barras, el código interno real de productos, la identificación de productos del Grupo Truper y las fotografías de productos.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v2.80.2/FerreteriaJIT_V280.2.zip"
 }
