@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "2.80.5",
-  "version_disponible": "2.84.6",
+  "version_actual": "2.92.0",
+  "version_disponible": "2.92.0",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V2.84.6 disponible. Incluye mejoras en ventas, promociones, descuentos, pantalla del cliente, transferencia bancaria, catálogo Grupo Truper y actualización automática de fotografías por código interno.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v2.84.6/FerreteriaJIT_V284.6.zip"
+  "mensaje": "Nueva actualización V2.92.0 disponible. Incluye mejoras y correcciones en el catálogo de pinturas PintoLux, con códigos, nombres y colores mejor organizados.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V2.92.0/FerreteriaJIT_V2.92.0.zip"
 }
