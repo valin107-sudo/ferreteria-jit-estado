@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "2.96.0",
-  "version_disponible": "2.96.0",
+  "version_actual": "2.97.0",
+  "version_disponible": "2.97.0",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V2.96.0 disponible. Incluye guardar e imprimir etiquetas directamente desde Nuevo Producto, integración con el Centro Profesional de Etiquetas, Code 128 y conservación de las mejoras de stock, Kardex, catálogo Truper e inventario.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V2.96.0/FerreteriaJIT_V2.96.0.zip"
+  "mensaje": "Nueva actualización V2.97.0 disponible. Mejora la impresión de etiquetas con Brother QL-800 como impresora preferida, configuración independiente de la impresora de tickets, formato corto de 29 mm, memoria de impresora y tamaño, y mejor acomodo de nombres, precios y códigos de barras.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V2.97.0/FerreteriaJIT_V2.97.0.zip"
 }
