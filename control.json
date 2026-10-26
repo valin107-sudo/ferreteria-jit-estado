@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "2.99.0",
-  "version_disponible": "2.99.0",
+  "version_actual": "3.00.0",
+  "version_disponible": "3.00.0",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V2.99.0 disponible. Mejora los Pedidos de Pinturas PintoLux: ahora puedes pedir colores nuevos aunque todavía no estén registrados en el inventario, consultar el catálogo de tonos por línea, código, nombre y presentación, buscar colores rápidamente e identificar cuáles ya existen y cuáles son nuevos por pedir.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V2.99.0/FerreteriaJIT_V2.99.0.zip"
+  "mensaje": "Nueva actualización V3.00.0 disponible. Agrega Usuarios y Permisos con inicio de sesión y control de acceso, además de Cambio Pendiente para clientes registrados y ocasionales, con folio, búsqueda y devolución posterior del dinero.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.00.0/Ferreteria.J.I.T.V3.00.0.zip"
 }
