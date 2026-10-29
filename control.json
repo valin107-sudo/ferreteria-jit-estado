@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "3.03.15",
-  "version_disponible": "3.03.15",
+  "version_actual": "3.03.16",
+  "version_disponible": "3.03.16",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V3.03.15 disponible. Corrige el problema que impedía agregar productos normales al punto de venta, conserva el funcionamiento de las promociones y mantiene las mejoras de garantías y ventas a crédito.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.03.15/Ferreteria.J.I.T.V3.03.15.zip"
+  "mensaje": "Nueva actualización V3.03.16 disponible. Agrega Cuentas Abiertas, selección de cliente o Público General al iniciar una venta, captura de cantidad al agregar productos y corrige el proceso de Fiado/Crédito para que una operación cancelada no se registre.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.03.16/Ferreteria.J.I.T.V3.03.16.zip"
 }
