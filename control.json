@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "3.01.1",
-  "version_disponible": "3.01.1",
+  "version_actual": "3.03.14",
+  "version_disponible": "3.03.14",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V3.01.1 disponible. Corrige el registro de productos cuando el código interno ya está capturado, incluyendo productos identificados de Grupo Truper, y conserva la validación de códigos duplicados y la generación automática de códigos.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.01.1/FerreteriaJIT_V3.01.1.zip"
+  "mensaje": "Nueva actualización V3.03.14 disponible. Corrige el módulo de Garantías, mejora la visualización de garantías registradas, vigentes y vencidas, incorpora un mensaje profesional para ventas a crédito y conserva la autorización de administrador y el registro del usuario que atendió la venta.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.03.14/Ferreteria.J.I.T.V3.03.14.zip"
 }
