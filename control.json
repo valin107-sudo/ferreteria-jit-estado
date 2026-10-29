@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "3.03.14",
-  "version_disponible": "3.03.14",
+  "version_actual": "3.03.15",
+  "version_disponible": "3.03.15",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V3.03.14 disponible. Corrige el módulo de Garantías, mejora la visualización de garantías registradas, vigentes y vencidas, incorpora un mensaje profesional para ventas a crédito y conserva la autorización de administrador y el registro del usuario que atendió la venta.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.03.14/Ferreteria.J.I.T.V3.03.14.zip"
+  "mensaje": "Nueva actualización V3.03.15 disponible. Corrige el problema que impedía agregar productos normales al punto de venta, conserva el funcionamiento de las promociones y mantiene las mejoras de garantías y ventas a crédito.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/V3.03.15/Ferreteria.J.I.T.V3.03.15.zip"
 }
