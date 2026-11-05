@@ -2,9 +2,9 @@
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
   "version_actual": "3.07.0",
-  "version_disponible": "3.07.2",
+  "version_disponible": "3.07.3",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva actualización V3.07.2 disponible. Mejoras de stock, avisos de clientes y WhatsApp. Realice un respaldo antes de instalar.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.2/Ferreteria.J.I.T.V3.07.2.zip"
+  "mensaje": "Versión de prueba V3.07.3 disponible: mejoras en cobro de fiados por producto y abonos parciales. Antes de instalar, realice un respaldo completo de productos, clientes, ventas, fiados, usuarios, configuraciones y licencias. Pruebe primero en un equipo y conserve la versión anterior.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.3/Ferreteria.J.I.T.V3.07.3.zip"
 }
