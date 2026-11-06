@@ -1,10 +1,10 @@
 {
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
-  "version_actual": "3.07.0",
-  "version_disponible": "3.07.4",
+  "version_actual": "3.07.4",
+  "version_disponible": "3.07.5",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Versión de prueba V3.07.4 disponible. Antes de actualizar, realice respaldo completo y conserve la instalación anterior. No reemplace archivos de datos, usuarios, fiados, configuraciones o licencias.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.4/Ferreteria.J.I.T.V3.07.4.zip"
+  "mensaje": "Versión de prueba V3.07.5: corrección de recuperación de cuentas respaldadas. Antes de instalar, cree un respaldo completo. Después verifique productos, clientes, cuentas, inventario y configuración. No recupere cuentas sin revisar posibles duplicados.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.5/Ferreteria.J.I.T.V3.07.5.zip"
 }
