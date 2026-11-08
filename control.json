@@ -2,9 +2,9 @@
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
   "version_actual": "3.07.4",
-  "version_disponible": "3.07.5",
+  "version_disponible": "3.07.6",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Versión de prueba V3.07.5: corrección de recuperación de cuentas respaldadas. Antes de instalar, cree un respaldo completo. Después verifique productos, clientes, cuentas, inventario y configuración. No recupere cuentas sin revisar posibles duplicados.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.5/Ferreteria.J.I.T.V3.07.5.zip"
+  "mensaje": "Nueva versión V3.07.6: mejoras en Reporte del Día y reportes de ingresos y gastos. Antes de instalar, realice un respaldo completo de los datos. Después compruebe productos, clientes, cuentas, inventario, ventas, licencias y configuración.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.6/Ferreteria.J.I.T.V3.07.6.zip"
 }
