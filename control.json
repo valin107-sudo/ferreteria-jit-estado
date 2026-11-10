@@ -2,9 +2,9 @@
   "sistema": "Ferreteria J.I.T.",
   "estado": "ACTIVO",
   "version_actual": "3.07.4",
-  "version_disponible": "3.07.7",
+  "version_disponible": "3.07.8",
   "actualizacion_disponible": true,
   "obligatoria": false,
-  "mensaje": "Nueva versión V3.07.7: mejoras en la pantalla del cliente y configuración de QR bancario para transferencias. Antes de instalar, realice un respaldo completo. Después compruebe productos, clientes, cuentas, inventario, ventas, usuarios, licencias y configuración.",
-  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.7/Ferreteria.J.I.T.V3.07.7.zip"
+  "mensaje": "Nueva versión V3.07.8 de Ferretería J.I.T. Antes de actualizar, realice un respaldo completo. Después compruebe productos, clientes, cuentas, inventario, ventas, usuarios, licencias y configuración.",
+  "url_actualizacion": "https://github.com/valin107-sudo/ferreteria-jit-estado/releases/download/v3.07.8/Ferreteria.J.I.T.V3.07.8.zip"
 }
